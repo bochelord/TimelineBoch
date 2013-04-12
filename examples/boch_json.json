@@ -1,0 +1,192 @@
+{
+	"timeline":
+    {
+        "headline":"José Gómez de Lara",
+        "type":"default",
+		"text":"<i><span class='c1'>Software Engineer</span> - <span class='c2'>UX Designer</span></i><br><i><span class='c2'>Game Developer</span> - <span class='c1'>Producer</span></i>",
+		"asset":
+        {
+            "media":"assets/img/shots/josegomezdelara_big.jpg",
+            "credit":"<a href='http://www.radicalgraphics.com/cv' target='_new'>Jose Gomez de Lara - Curriculum Vitae / Resumeé</a>",
+            "caption":""
+        },
+        "date": [
+			{
+                "startDate":"2001,6",
+                "headline":"DivNet - Game Online Magazine",
+                "text":"<h4>Independent Project</h4><p>DivNet was an amateur videogame magazine published monthly, created to be a community gathering place for code collaboration, indie games, etc... It was a collaborative effort between several people in Spain and South America<br>Its publication spanned for several years and currently survives as a forum at <a href='http://forum.divsite.net/' target='_new'>forum.divsite.net</a></p>",
+                "asset":
+                {
+                    "media":"assets/img/shots/logoDivnet2.png",
+                    "credit":"<a href='http://forum.divsite.net/' target='_new'>forum.divsite.net</a>",
+                    "caption":"DivNet logo in 2001"
+                }
+            },
+			{
+                "startDate":"2002,12",
+                "headline":"Web Applications Engineer - Graphic Designer",
+                "text":"<h4>Baetica, S.L. - Madrid, Spain</h4><p>Responsible for company´s back end development (ASP, PHP, XML)<br>Participation in development of internal tools involving porting and QA.<br>Participation in design and production of graphic assets for front end development <a href='http://www.baetica.es/' target='_new'>www.baetica.es</a></p>",
+                "asset":
+                {
+                    "media":"assets/img/shots/logo_baetica.png",
+                    "credit":"<a href='http://www.baetica.es' target='_new'>www.baetica.es</a>",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2003,12",
+                "headline":"BSc. Information Engineering & Management.",
+                "text":"<img src='assets/img/logo_uem.jpg' width='147' heigth='150'><br>Bachelor of Science: Information Engineering & Management at Universidad Europea de Madrid, <a href='http://www.uem.es' target='_new'>www.uem.es</a><br><h4>1999 - 2003 | Fields:</h4><p>Software Engineering, Bussiness Administration, Object Oriented Programming Techniques, Networking and Distributed Systems</p>",
+                "asset":
+                {
+                    "media":"assets/img/shots/uemshot.jpg",
+                    "credit":"<a href='http://www.uem.es' target='_new'>www.uem.es</a>",
+                    "caption":"UEM Madrid Campus, Spain"
+                }
+            },
+            {
+                "startDate":"1999,7",
+                "headline":"Radical Graphics Studios",
+                "text":"<h4>Independent Project</h4><p>Founded Radical Graphics Studios with two friends in a borrowed office space in Marbella, Spain. All started as a moniker for naming our different projects.<br> A wide range of stuff we were, and are, tinkering: web, game, mobile, video, music, fashion, social networks...<br><a href='http://www.radicalgraphics.com' target='_new'>www.radicalgraphics.com</a></p>",
+                "asset":
+                {
+                    "media":"assets/img/shots/RADOKEND5.png",
+                    "credit":"<a href='http://www.radicalgraphics.com' target='_new'>www.radicalgraphics.com</a>",
+                    "caption":"logo in 1999"
+                }
+            },
+			{
+                "startDate":"2005,7",
+                "headline":"Information Technology Exchange Internship",
+                "text":"<img src='assets/img/shots/HVA.jpg'><br>Information Technology Erasmus Exchange at Hogeschool van Amsterdam<br><a href='http://www.hva.nl' target='_new'>www.hva.nl</a><br><h4>2004 - 2005 | Fields:</h4><p>ICT in Marketing, IT Management, Java Server Pages, C++, Unix and Network Management</p>",
+                "asset":
+                {
+                    "media":"assets/img/shots/home01.jpg",
+                    "credit":"<a href='http://www.hva.nl' target='_new'>www.hva.nl</a>",
+                    "caption":""
+                }
+            },
+			{
+                "startDate":"2005,12",
+                "headline":"Web Applications Engineer",
+                "text":"<h4>Cartrawler, Ltd. - Dublin, Ireland</h4><p>Development, deployment and design of back-end & front-end Systems for Global Retail Engine (PHP, Java, SQL, CSS).<br>Participation in development of Online Travel Agent (OTA) XML Interface for internal processes and technology improvement. <br><a href='http://www.cartrawler.com/' target='_new'>www.cartrawler.com</a></p>",
+                "asset":
+                {
+                    "media":"assets/img/shots/CarTrawler_logo_highres.png",
+                    "credit":"<a href='http://www.cartrawler.com' target='_new'>www.cartrawler.com</a>",
+                    "caption":""
+                }
+            },
+			{
+                "startDate":"2006,5",
+                "headline":"Localization QA",
+                "text":"<h4>Keywords International, Ltd. - Dublin, Ireland</h4><p>Identify, isolate, and document bugs clearly and concisely.<br>Run test suites; verify fixes, spot grammar and language mistakes.<br>Follow the documented processes at all stages of the testing cycle.<br><a href='http://www.keywordsintl.com/' target='_new'>www.keywordsintl.com</a></p>",
+                "asset":
+                {
+                    "media":"assets/img/shots/keywords2.png",
+                    "credit":"<a href='http://www.keywordsintl.com/' target='_new'>www.keywordsintl.com</a>",
+                    "caption":"<br><h4>Titles:</h4><p><span class='game'><div class='row'><div class='span0'><div class='rounded' style='height: 60px; width:42px;'><img src='assets/img/n3.jpg' height='60' width='42' title='NinentyNineNights'/></div></div><div class='span0'><div class='rounded' style='height: 60px; width:42px;'><img src='assets/img/forza2.jpg' height='60' width='42' title='Forza Motorsport 2'/></div></div><div class='span0'><div class='rounded' style='height: 60px; width:42px;'><img src='assets/img/gearsofwar.jpg' height='60' width='42' title='Gears of War'/></div></div><div class='span0'><div class='rounded' style='height: 60px; width:42px;'><img src='assets/img/shadowrun.jpg' height='60' width='42' title='Shadowrun'/></div></div><div class='span0'><div class='rounded' style='height: 60px; width:42px;'><img src='assets/img/vampirerain.jpg' height='60' width='42' title='Vampire Rain'/></div></div><div class='span0'><div class='rounded' style='height: 60px; width:42px;'><img src='assets/img/guitarheroPS2.jpg' height='60' width='42' title='Guitar Hero - Rock the 80's/></div></div><div class='span0'><div class='rounded' style='height: 60px; width:42px;'><img src='assets/img/agewarchiefs.jpg' height='60' width='42' title='Age of Empires III'/></div></div><div class='span0'><div class='rounded' style='height: 60px; width:42px;'><img src='assets/img/halo2win.jpg' height='60' width='42' title='Halo 2'/></div></div><div class='span0'><div class='rounded' style='height: 60px; width:42px;'><img src='assets/img/sparta.jpg' height='60' width='42' title='Ancient Wars Sparta'/></div></div></div></span><br><br> Ninety Nine Nights - X360<br>Forza Motorsport 2 - X360<br>Gears of War - X360<br>Shadowrun - X360<br>Vampire Rain - X360<br>Guitar Hero Rock The 80's - PS2<br>Age of Empires III - PC<br>Halo 2 - PC<br>Ancient Wars Sparta - PC<br>"
+                }
+            },
+			{
+                "startDate":"2006,11",
+                "headline":"MSc. Software Engineering (AI)",
+                "text":"<img src='assets/img/logo_uem.jpg' width='147' heigth='150'><br>Master of Science, Software Engineering  at Universidad Europea de Madrid, <br><a href='http://www.uem.es' target='_new'>www.uem.es</a><br><h4>2004 - 2006 | Fields: Artificial Intelligence Specialty</h4><p>Computer Architecture, Human-Machine Interaction, Vectorial Analisys, Natural Language Processing, Artificial Neural Networks, Artificial Intelligence, Computer Vision, Operating Systems</p>",
+                "asset":
+                {
+                    "media":"assets/img/shots/uemshot2.jpg",
+                    "credit":"<a href='http://politecnica.uem.es/' target='_new'>www.politecnica.uem.es/</a>",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2006,12",
+                "headline":"Lead Localization QA",
+                "text":"<h4>Keywords International, Ltd. - Dublin, Ireland</h4><p>Manage the Localization Test Team on test plans.<br>Liaise with client-supplier on test mapping and coverage status.<br>Verify integrity of software for every release.<br>Produce and track bug reports, coverage status and test project schedules.<br><a href='http://www.keywordsintl.com/' target='_new'>www.keywordsintl.com</a></p>",
+                "asset":
+                {
+                    "media":"assets/img/shots/keywords2.png",
+                    "credit":"<a href='http://www.keywordsintl.com/' target='_new'>www.keywordsintl.com</a>",
+                    "caption":"<br><h4>Titles:</h4><p><span class='game'><div class='row'><div class='span0'><div class='rounded' style='height: 60px; width:42px;'><img src='assets/img/pimpmyrideXbox360.jpg' height='60' width='42' title='Pimp My Ride'/></div></div><div class='span0'><div class='rounded' style='height: 60px; width:42px;'><img src='assets/img/harleydavidson.jpg' height='60' width='42' title='Harley Davidson : Road to Rally'/></div></div></span><div class='span0'><div class='rounded' style='height: 60px; width:60px;'><img src='assets/img/hammyDS.jpg' height='60' width='60' title='Over the Hedge - NDS'/></div></div></span><div class='span0'><div class='rounded' style='height: 60px; width:60px;'><img src='assets/img/hammygba.jpg' height='60' width='60' title='Over the Hedge - GBA'/></div></div></span><div class='span0'><div class='rounded' style='height: 60px; width:35px;'><img src='assets/img/hammyPSP.jpg' height='60' width='42' title='Over the Hedge - PSP'/></div></div></span></div><br><br> Pimp My Ride - X360<br>Harley Davidson - PS2<br>Over the Hedge : Hammy goes nuts - GBA, NDS, PSP"
+                }
+            },
+            {
+                "startDate":"2007,7",
+                "headline":"Test Engineer",
+                "text":"<h4>Microsoft Game Studios, EMEA - Dublin, Ireland</h4><p>Input into the production of test documentation.<br>Produce test plans and bug reports for all releases as necessary.<br>Liaise with Customer Support team to analyze and track external bugs.<br>Liaise with Development team on bug status and release status.<br>Liaise with Localization vendor on test mapping and coverage status.<br><a href='http://www.microsoft.com/games/' target='_new'>www.microsoft.com/games</a></p>",
+                "asset":
+                {
+                    "media":"assets/img/shots/microsoftgamestudios.png",
+                    "credit":"<a href='http://www.microsoft.com/games/' target='_new'>www.microsoft.com/games</a>",
+                    "caption":"<br><h4>Titles:</h4><p><span class='game'><div class='row'><div class='span0'><div class='rounded' style='height: 60px; width:42px;'><img src='assets/img/masseffect.jpg' height='60' width='42' title='Mass Effect'/></div></div><div class='span0'><div class='rounded' style='height: 60px; width:42px;'><img src='assets/img/sceneit.jpg' height='60' width='42' title='Scene: it!'/></div></div></span><div class='span0'><div class='rounded' style='height:60px; width:89px;'><img src='assets/img/zune.png' height='60' width='89' title='Zune App'/></div></div></span></div><br><br> Mass Effect - X360<br>Scene it! - X360<br>Zune App - Windows"
+                }
+            },
+            {
+                "startDate":"2008,2",
+                "headline":"Software Test Engineer",
+                "text":"<h4>TomTom - Amsterdam, The Netherlands</h4><p>Produce and execute test plans for web software, client-server software, standalone application software, and on device.<br>Input into the production of test documentation.<br>Liaise with Development team on bug status and release status.<br>Liaise with Project Management and Business Architects on assurance of software <br>requirements and business logic.<br><a href='http://www.tomtom.com/' target='_new'>www.tomtom.com</a></p>",
+                "asset":
+                {
+                    "media":"assets/img/shots/tomtomlogo.png",
+                    "credit":"<a href='http://www.tomtom.com' target='_new'>www.tomtom.com</a>",
+                    "caption":"<br><h4>Projects:</h4><p><span class='game'><div class='row'><div class='span0'><img src='assets/img/tomtom_one_xl_perps.png' height='71' width='100' title='TomTom XL series'/></div><div class='span0'><div class='rounded' style='height: 80px; width:120px;'><img src='assets/img/tomtom_traffic.jpg' height='80' width='120' title='TomTom Traffic Services'/></div></div></span></div><br><br> TomTom ONE XL series<br>TomTom Traffic Services"
+                }
+            },
+            {
+                "startDate":"2009,3",
+                "headline":"Producer - Site Manager",
+                "text":"<h4>Keesing Games - Hilversum, The Netherlands</h4><p>Analyze Key Performance Indicators for platform/product<br>Product and platform development (internal/external)<br>Identify relevant technical developments<br>Identify new trends and initiate promotional actions accordingly<br>Design game mechanics, community concepts and new business models<br>Test plan development,User Acceptance Testing and Product Quality Assurance.<br><a href='http://www.keesinggames.com/' target='_new'>www.keesinggames.com</a></p>",
+                "asset":
+                {
+                    "media":"assets/img/shots/keesing_logo_big.png",
+                    "credit":"<a href='http://www.keesinggames.com/' target='_new'>www.keesinggames.com</a>",
+                    "caption":"<br><h4>Projects:</h4><p><span class='game'><div class='row'><div class='span0'><img src='assets/img/yezzle.png' height='80' width='120' title='Yezzle - Puzzles & Braintraining'/></div><div class='span0'><img src='assets/img/vitaminep.png' height='80' width='120' title='Vitamine-P'/></div></span></div><br><br> Yezzle - Puzzle & Braintraining<br>Vitamine-P - Puzzles"
+                }
+            },
+            {
+                "startDate":"2010,4",
+                "headline":"Founder and Director",
+                "text":"<h4>Radical Graphics Studios - Amsterdam, The Netherlands</h4><p>Radical Graphics Studios is a creative media design studio based in Amsterdam , The Netherlands.<br>We provide concepts , strategies and designs focused on new media and entertainment.<br>We merge game mechanics concepts and social media approaches through game development on different platforms (mobile, web, consoles)<br>Current developments include fashion goods production on demand and social advertising.<br><a href='http://www.radicalgraphics.com/' target='_new'>www.radicalgraphics.com</a></p>",
+                "asset":
+                {
+                    "media":"assets/img/shots/radicallogo.png",
+                    "credit":"<a href='http://www.radicalgraphics.com/' target='_new'>www.radicalgraphics.com</a>",
+                    "caption":"<br><h4>Projects:</h4><p><span class='game'><div class='row'><div class='span0'><img src='assets/img/looklala.png' height='80' width='120' title='looklala - indie trend'/></div></span></div><br><br> Looklala - Indie Trend <a href='http://www.looklala.com/' target='_new'>www.looklala.com</a></p>"
+                }
+            },
+            {
+                "startDate":"2010,9",
+                "headline":"Build Engineer",
+                "text":"<img src='assets/img/sonyCElogo.gif' width='52' heigth='72'><h4>Guerrilla Games (Sony Europe) - Amsterdam, The Netherlands</h4><p>- Collaborate with IT Support to maintain and support all facets of the build farm, including configuration, troubleshooting, software updates, and setting up new projects<br>Research new technologies and techniques to optimize the build process and enhance infrastructure performance.<br>Integrate the output of the development teams into releases and liaise with QA to have them tested.<br><a href='http://www.guerrilla-games.com/' target='_new'>www.guerrilla-games.com</a></p>",
+                "asset":
+                {
+                    "media":"assets/img/shots/guerrillalogo2.png",
+                    "credit":"<a href='http://www.guerrilla-games.com/' target='_new'>www.guerrilla-games.com</a>",
+                    "caption":"<br><h4>Titles:</h4><p><span class='game'><div class='row'><div class='span0'><div class='rounded' style='height: 60px; width:42px;'><img src='assets/img/killzone3.jpg' height='60' width='42' title='Killzone 3 - PS3'/></div></div></div></span><br><br> Killzone3 - PS3 </p>"
+                }
+            },
+            {
+                "startDate":"2012,5",
+                "headline":"3D Graphics & Animation Certification",
+                "text":"<img src='assets/img/shots/sae-1.jpg' width='52' heigth='72'><h4>SAE Institute / Qantm College - Amsterdam, The Netherlands</h4><p><h4>2011 - 2012 | Fields: </h4><p>Modelling, Texturing, Lightning, Cameras, Animating, Rendering.<br>Autodesk Maya, Adobe Creative Suite, Unity 3D</p><p>3D design has become an integral part of the graphics, art and multimedia industry. 3D graphics and animation are used in virtual environments, computer games, film productions, presentations, medical illustrations, architectural visualizations and on the web.<br><a href='http://amsterdam.sae.edu/' target='_new'>www.amsterdam.sae.edu</a></p>",
+                "asset":
+                {
+                    "media":"assets/img/shots/Qantm-logo.png",
+                    "credit":"<a href='http://amsterdam.sae.edu/' target='_new'>www.amsterdam.sae.edu</a>",
+                    "caption":"<br><h4>Final 3D Portfolio:</h4><p><span class='game'><div class='row'><div class='span0'><div class='rounded' style='height: 80px; width:120px;'><a href='http://www.radicalgraphics.com/maya' target='_new'><img src='assets/img/koko.jpg' height='80' width='120' title='3D portfolio - Jose Gomez de Lara'/></a></div></div></div></span></p>"
+                }
+            },
+            {
+                "startDate":"2012,11",
+                "headline":"Interaction Designer",
+                "text":"<img src='assets/img/shots/sae-1.jpg' width='52' heigth='72'><h4>Subatomic B.V. - Amsterdam, The Netherlands</h4><p><p>Modelling, Texturing, Lightning, Cameras, Animating, Rendering.<br>Autodesk Maya, Adobe Creative Suite, Unity 3D</p><p>3D design has become an integral part of the graphics, art and multimedia industry. 3D graphics and animation are used in virtual environments, computer games, film productions, presentations, medical illustrations, architectural visualizations and on the web.<br><a href='http://amsterdam.sae.edu/' target='_new'>www.amsterdam.sae.edu</a></p>",
+                "asset":
+                {
+                    "media":"assets/img/shots/Qantm-logo.png",
+                    "credit":"<a href='http://amsterdam.sae.edu/' target='_new'>www.amsterdam.sae.edu</a>",
+                    "caption":"<br><h4>Final 3D Portfolio:</h4><p><span class='game'><div class='row'><div class='span0'><div class='rounded' style='height: 80px; width:120px;'><a href='http://www.radicalgraphics.com/maya' target='_new'><img src='assets/img/koko.jpg' height='80' width='120' title='3D portfolio - Jose Gomez de Lara'/></a></div></div></div></span></p>"
+                }
+            }
+        ]
+    }
+}
